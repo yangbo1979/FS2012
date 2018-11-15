@@ -9,3 +9,4 @@ i2c read FS2012 data
 
 ![Running result](https://github.com/yangbo1979/FS2012/blob/master/images/esplorer.png)
 
+![wiring](https://github.com/yangbo1979/FS2012/blob/master/images/wiring.jpg)
