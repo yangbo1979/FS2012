@@ -1,5 +1,5 @@
 # FS2012
-lua lib for IDT FlowSensor2012 for nodemcu
+lua lib for IDT FlowSensor2012 for nodemcu,need I2C support in your firmware.
 
 http://idt.com/FS2012-EVK
 
