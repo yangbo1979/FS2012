@@ -11,4 +11,4 @@ i2c read FS2012 data
 
 ![wiring](https://github.com/yangbo1979/FS2012/blob/master/images/wiring.jpg)
 
-![solidworks](https://github.com/yangbo1979/FS2012/blob/master/images/)
+![solidworks](https://github.com/yangbo1979/FS2012/blob/master/images/fs2012_solidworks.png)
